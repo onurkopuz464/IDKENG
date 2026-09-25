@@ -1,0 +1,21 @@
+[[permission]]
+identifier = "allow-commands"
+description = "IDKENG pencere komutları"
+commands.allow = [
+  "add_api_key",
+  "select_api_key",
+  "remove_api_key",
+  "get_settings_state",
+  "set_autostart",
+  "set_close_to_tray",
+  "set_start_minimized",
+  "set_hotkey_binding",
+  "set_app_prefs",
+  "preview_prompt_rules",
+  "get_traffic",
+  "clear_traffic",
+  "hide_main",
+  "copy_translation",
+  "paste_translation",
+  "translate_text"
+]
